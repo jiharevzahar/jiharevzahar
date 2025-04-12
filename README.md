@@ -1,8 +1,5 @@
-- 👋 Hi, I’m @jiharevzahar
-- 👀 I’m interested in Golang
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m Zakhar Zhykharau
+- 👀 I’m interested in Golang/Java
 
 <!---
 jiharevzahar/jiharevzahar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
